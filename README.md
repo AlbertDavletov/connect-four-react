@@ -1,2 +1,4 @@
 # connect-four-react
-Created with CodeSandbox
+
+Play-test:
+https://47pnz.csb.app/
