@@ -1,0 +1,13 @@
+.connect-four-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.connect-four-row {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
